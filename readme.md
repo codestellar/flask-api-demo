@@ -25,3 +25,7 @@ pip freeze > requirements.txt
 ````
 pip install flask
 ````
+6. Run the application
+````
+python app.py
+````
