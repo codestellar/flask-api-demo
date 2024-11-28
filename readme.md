@@ -1,5 +1,7 @@
 # Learn Building API in python
 
+## This tutorial's code is generated using ChatGPT and is tested.
+
 1. Install and activate venv
 ````
 python3 -m venv venv
